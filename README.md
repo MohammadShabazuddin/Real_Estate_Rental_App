@@ -1,6 +1,7 @@
 # Real Estate Rental Application
 
-A full-stack real estate rental platform built with Next.js, Node.js, and Prisma, designed to streamline the property rental process for both property managers and tenants.
+A full-stack real estate rental platform built with Next.js, Node.js, and Prisma, designed to streamline the property rental process for both property managers and tenants. The app allowed users to search for properties, apply for leases, manage their rental history, and for managers to list, update, and oversee properties and tenant applications.
+
 
 ## 🌟 Features
 
