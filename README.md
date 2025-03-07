@@ -140,10 +140,6 @@ The application uses JWT (JSON Web Tokens) for authentication. Users can sign up
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Authors
 
 - Mohammad Shabazuddin
