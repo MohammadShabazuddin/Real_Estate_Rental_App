@@ -136,7 +136,5 @@ The application uses JWT (JSON Web Tokens) for authentication. Users can sign up
 - Dark mode support
 - Loading states and animations
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
